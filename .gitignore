@@ -259,3 +259,21 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Assets/AnimationWorkPlagueDocter
+/Assets/Materials/3DUI
+*.png
+*.dll
+*.fbx
+*.asset
+*.anim
+*.mask
+*.controller
+*.wav
+*.mat
+*.physicMaterial
+/Assets/Opsive
+/Assets/Samples/Cinemachine/2.5.0/Cinemachine Example Scenes
+/Assets/unity-chan!/Unity-chan! Model
+/Library
+/ProjectSettings
+/Temp
